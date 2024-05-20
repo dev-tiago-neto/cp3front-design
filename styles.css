@@ -1,0 +1,52 @@
+body {
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+header {
+    background-color: blueviolet;
+    width: 980px;
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body div {
+    display: flex;
+}
+
+.hor-space {
+    height: 15px;
+}
+
+.ver-space {
+    width: 15px;
+}
+
+#Sidebar {
+    background-color: rgb(73, 226, 43);
+    width: 270px;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#Content {
+    background-color: rgb(226, 43, 226);
+    width: 690px;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    background-color: rgb(226, 43, 43);
+    width: 980px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
